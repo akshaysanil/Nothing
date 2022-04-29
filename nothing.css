@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100;200;300&display=swap');
+
+
+body, html {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+body{
+    margin: 0;
+    padding: 0;  
+    font-family: 'Noto Sans Mono', monospace; 
+}
+.img1{
+    position: relative;
+    width: 100%;
+
+    
+
+}
+.navbar{
+    position:absolute;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 70px;     
+    z-index: 2;
+
+}
+.brandname{
+    position: absolute;
+    top: 20px;
+    font-size: 25px;   
+    padding-left: 30px;
+}
+.opt1{
+    position: absolute;
+    top: 20px;
+    font-size: 25px;
+    right: 250px;
+}
+.login{
+    position: absolute;
+    top: 20px;
+    font-size: 25px;
+    right: 50px;
+}
+.first{
+
+    width: 550px;
+    height:100px;
+    position: absolute;
+    top: 390px;
+    right: 30px;
+}
+.but1{
+    background-color: black;
+    color: white;
+    width: 180px;
+    height: 50px;
+    font-size: medium;
+} 
+h2{
+    font-family: --bs-font-sans-serif: "Noto Sans Mono", "Noto Sans", Rubik, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+}
+
+
+.margin2{
+    position: relative;
+}  
+.second{
+    width: 450px;
+    height:100px;
+    position: absolute;
+    top: 350px;
+    right: 100px;
+
+
+}
+.but2{
+    width: 150px;
+    height: 50px;
+    font-size: medium;
+
+}
+.quote2{
+    color: white;
+}
+.p2{
+    color: white;
+}
+.set{
+    position: relative;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.logo1{
+    padding-left: 20px;
+    width:150px;
+}
+.one{
+    padding-top: 60px;
+    padding-left: 300px;
+    width: 100p;
+    height: 50px;  
+}
+.sub1{
+    width: 400px;
+    height:100px;
+}
+.two{
+    padding-top: 60px;
+}
+.sub2{
+    width: 390px;
+    height: 100;
+    padding-left: 90px;
+}
+.logo2{
+    width: 40px;  
+    padding-left: 220px;    
+}
+.three{
+    
+}
+.logo3{
+    padding-top:60px;
+    padding-left:  300px;
+    width:90px;
+    height:30px;
+}
+.sub3{
+    padding-left: 240px; 
+}
+}
+.quote1{
+    font-style: (--bs-font-sans-serif);
+}
+.margin3{
+    position: relative;
+}
+.third{
+    width: 400px;
+    height:250px;
+    position: absolute;
+    top: 350px;
+    right: 100px;
+}
+.mail{
+    background-color: transparent;
+    display :flex ;
+    flex-direction: row;
+    width: 100%;
+    height:80px;
+}
+.but3{
+    width:280px;
+    height:39px;
+    background-color: transparent;
+    border: solid white 3px;
+    font-size:medium;
+}
+.but4{
+    width: 120px;
+    height: 54px;
+    background-color:zure;
+    color: black;
+    border: solid black 4px;;
+    
+}
+.img4{
+    position: absolute;
+    top: 350px;
+    right: 150px;
+    
+
+    
+}
+.quote3{
+    color: white;
+}
+.margin4{
+    position: relative;
+}
+.fourth{
+    width: 400px;
+    height:150px;
+    position: absolute;
+    top: 350px;
+    right: 150px;
+
+}
+.p4{
+    color: white;
+}
+.quote4{
+    color:white;
+}
+.margin5{
+    position: relative;
+}
+.but5{
+    width: 120px;
+    height: 45px;
+    background-color: white;
+    color: black;   
+}
+
+.fifth{
+    width: 400px;
+    height:150px;
+    position: absolute;
+    top: 350px;
+    right: 150px;
+}
+.sub5{
+    color: black;
+}
+.quote5{
+    color: black;
+}
+.but6{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 50px;
+}
+.footer{
+    padding-top: 10px;
+    width: 100%;
+    /* height:250px; */
+    background-color: blue;
+    
+}
+.infor{
+    display: flex;
+    flex: row;
+    
+}
+.about{
+    padding-left: 20px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+
+}
+.products{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.support{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.download{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
